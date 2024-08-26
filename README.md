@@ -3,7 +3,7 @@
 
 # 🧑🏽 About me: <br />
 - I'm an recently graduated from [UAM Azcapotzalco](https://www.azc.uam.mx/)
-- I'm currently focus on learning more about Web Devolopment - Backend (Spring Boot)
+- I'm currently focus on learning more about Web Development - Backend (Spring Boot)
 
 # 💻 Skills:
 - Programing languages:
