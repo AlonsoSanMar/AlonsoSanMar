@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alonso</h1>
 
 
-# 🧑🏽 About me: <br />
+# 🧑🏽‍💻 About me: <br />
 - I'm an recently graduated from [UAM Azcapotzalco](https://www.azc.uam.mx/)
 - I'm currently focus on learning more about Web Development - Backend (Spring Boot)
 
